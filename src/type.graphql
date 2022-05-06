@@ -1,0 +1,4 @@
+type RewardPointsTransfer {
+  sendingUserId: String!
+  receivingUserId: String!
+}
